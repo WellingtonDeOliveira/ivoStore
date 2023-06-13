@@ -1,0 +1,28 @@
+section#produto-detalhes{
+    text-align: center;
+}
+
+div.titleProduto{
+ margin-top: 30px;
+ margin-bottom: 30px;
+}
+
+.description{
+    text-align: start;
+    margin: 0;
+    padding: 0;
+    margin-left: 5%;
+}
+
+div#description{
+    margin-top: 50px;
+}
+
+.acao{
+    margin: 50px;
+}
+@media screen and (max-width: 1180px) {
+    .imgOneProduto{
+        width: 100%;
+    }
+}

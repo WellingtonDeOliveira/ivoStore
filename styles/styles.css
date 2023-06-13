@@ -1,0 +1,67 @@
+body{
+  color: white !important;
+  background-color: #535252 !important;
+}
+
+.logo{
+  width: 70%;
+  height: 85%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.spaceLogo{
+  width: 20%;
+  margin-left: 40%;
+}
+
+.title{
+  align-self: center;
+}
+
+section#banner{
+ background-color: #333;
+ text-align: center;
+ padding-bottom: 10px;
+ border-radius: 0 0 35px 35px;
+}
+
+section#produtos{
+  text-align: center;
+}
+
+.localCard{
+  width: 70%;
+  margin-left: 15% !important;
+}
+
+.cardCenter{
+  text-align: -webkit-center;
+}
+
+.produto{
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 15px;
+  width: 250px !important;
+  height: 350px !important;
+  margin-bottom: 25px;
+}
+
+.produto:hover{
+ cursor: pointer;
+ transform: scale(1.2);
+}
+
+.imgProduto{
+  width: 150px;
+  height: 200px;
+}
+
+footer{
+  height: 120px;
+  padding: 15px;
+  text-align: center;
+  background-color: #333;
+  border-radius: 35px 35px 0 0;
+}
